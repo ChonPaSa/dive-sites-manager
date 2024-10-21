@@ -1,0 +1,460 @@
+# Copyright (C) 2020 DiveSitesManager
+# This file is distributed under the same license as the DiveSitesManager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: DiveSitesManager\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-26 09:25+0000\n"
+"PO-Revision-Date: 2021-01-12 10:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:107
+#| msgid "%s. Characteristic"
+msgid "%d. Characteristic"
+msgstr "%d. Característica"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:97
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:96
+msgid "Add New Dive Site"
+msgstr "Añadir nuevo sitio de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:44
+msgid "Add New Location"
+msgstr "Añadir nueva área"
+
+#: templates/admin.php:31
+msgid "Add the attribute Location to show only the dive sites of that location"
+msgstr ""
+"Añade el attributo Location para mostrar solo los puntos de immesión de esa "
+"área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:95
+msgid "All Dive Sites"
+msgstr "Todos los sitios de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:39
+#| msgid "All Location"
+msgid "All Locations"
+msgstr "Todas las áreas"
+
+#: cfish-dsm-inc/Pages/Map.php:146
+msgid "Allow Zoom"
+msgstr "Permitir zoom"
+
+#: cfish-dsm-inc/Base/BaseController.php:26
+msgid ""
+"Allows you to have dive sites in diferent locations. E.g. Komodo and Maldives"
+msgstr ""
+"Te permite añadir sitios de buceo en diferentes areas. Por ejemplo: Komodo y "
+"Maledivas"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:283
+msgid "Author"
+msgstr "Autor"
+
+#: templates/characteristics.php:2
+msgid "Characteristics for your Dive Sites"
+msgstr "Caracteristicas para tus sitios de buceo"
+
+#: cfish-dsm-inc/Api/Callbacks/ManagerCallbacks.php:168,
+#: cfish-dsm-inc/Api/Callbacks/ManagerCallbacks.php:171
+msgid "Choose Icon"
+msgstr "Selecciona un icono"
+
+#: cfish-dsm-inc/Api/Callbacks/ManagerCallbacks.php:14
+msgid "Choose the features that you want to (de)activate"
+msgstr "Selecciona la funcionalidad que quieres (de)activar"
+
+#: cfish-dsm-inc/Api/Callbacks/FormatCallbacks.php:23
+msgid "Choose the layout options"
+msgstr "Elige las opciones de diseñ0"
+
+#: cfish-dsm-inc/Pages/Format.php:184
+msgid "Color for text of the characteristics and description"
+msgstr "Color de la descripción y del texto de las características"
+
+#: cfish-dsm-inc/Pages/Format.php:171
+msgid "Color for the icons of the characteristics"
+msgstr "Color para los iconos de las características"
+
+#: cfish-dsm-inc/Pages/Format.php:158
+msgid "Color for the title and the short description"
+msgstr "Color para el título y la descripción corta"
+
+#: cfish-dsm-inc/Api/Callbacks/CharacteristicsCallbacks.php:22
+msgid ""
+"Create a list of the characteristics that you want to see in your dive site. "
+"E.g. Maximum Depth, Level, Dive Type,.... ."
+msgstr ""
+"Crea la lista de características para tus sitios de buceo. Por ejemplo "
+"Profundidad Máxima, Nivel, Tipo de buceo,...."
+
+#: cfish-dsm-inc/Pages/Dashboard.php:37
+msgid "Dashboard"
+msgstr "General"
+
+#: cfish-dsm-inc/Pages/Format.php:190
+msgid "Description Title"
+msgstr "Título de la sección description"
+
+#: cfish-dsm-inc/Pages/Format.php:45, cfish-dsm-inc/Pages/Format.php:46,
+#: templates/format.php:2
+msgid "Display Format"
+msgstr "Estilos"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:91,
+#: cfish-dsm-inc/Base/DiveSitesController.php:118
+msgid "Dive Site"
+msgstr "Sitio de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:92
+msgid "Dive Site Archives"
+msgstr "Archivo de sitios de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:93
+msgid "Dive Site Attributes"
+msgstr "Attributos del sitio de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:119
+msgid "Dive Site Description"
+msgstr "Descripción del sitio de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:88
+msgctxt "Dive Site General Name"
+msgid "Dive Sites"
+msgstr "Sitios de Buceo"
+
+#: cfish-dsm-inc/Pages/Map.php:133
+msgid "Dive Site Icon"
+msgstr "Icono para los puntos de immersión"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:89
+msgctxt "Dive Site Singular Name"
+msgid "Dive Site"
+msgstr "Sitio de Buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:90
+msgid "Dive Sites"
+msgstr "Sitios de buceo"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:44,
+#: cfish-dsm-inc/Pages/Characteristics.php:45
+msgid "Dive Sites Characteristics"
+msgstr "Características del sitio de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:112
+msgid "Dive Sites list"
+msgstr "Lista de sitios de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:113
+msgid "Dive Sites list navigation"
+msgstr "Navegación de la lista de sitios de buceo"
+
+#: cfish-dsm-inc/Pages/Dashboard.php:44, cfish-dsm-inc/Pages/Dashboard.php:45,
+#: templates/admin.php:2
+msgid "Dive Sites Manager"
+msgstr "Gestor de sitios de buceo"
+
+#: templates/admin.php:7, templates/admin.php:24
+msgid "Documentation"
+msgstr "Documentación"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:174
+msgid "Drag Me"
+msgstr "Arrástrame"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:99
+msgid "Edit Dive Site"
+msgstr "Editar sitio de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:42
+msgid "Edit Location"
+msgstr "Editar área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:106
+msgid "Featured Image"
+msgstr "Image del sitio"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:114
+msgid "Filter items list"
+msgstr "Filtro de objectos"
+
+#: templates/admin.php:6
+msgid "General Configuration"
+msgstr "Configuración general"
+
+#: cfish-dsm-inc/Pages/Map.php:110
+msgid "Height of the map in pixels"
+msgstr "Altura del mapa en pixeles"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:88
+msgid "How many characteristics do you want to add to your dive sites?"
+msgstr "¿Cuantas características quieres añadir a tus sitios de buceo?"
+
+#: cfish-dsm-inc/Pages/Format.php:164
+msgid "Icons Color"
+msgstr "Color de los iconos"
+
+#: cfish-dsm-inc/Pages/Map.php:153
+msgid "If selected the users will be able to zoom in the map"
+msgstr "Cuado esta seleccionado permite a los usuarios hacer zoom"
+
+#: cfish-dsm-inc/Pages/Map.php:140
+msgid "Image for the Dive Sites Markers on the map"
+msgstr "Imagen utilizada para el marcador de los puntos de immersión"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:110
+msgid "Insert into item"
+msgstr "Insertar en el elemento"
+
+#: cfish-dsm-inc/Api/Callbacks/ManagerCallbacks.php:42
+msgid "It can not be empty"
+msgstr "No puede estas vacio"
+
+#: cfish-dsm-inc/Pages/Format.php:143
+msgid "It sets how big is the picture related to its container"
+msgstr "Establece como de grande es la imagen en relación a su contenedor"
+
+#: cfish-dsm-inc/Pages/Format.php:128
+msgid ""
+"It sets in how many columns the dive sites will be displayed. It does not "
+"have any effect on mobile"
+msgstr ""
+"Establece en cuantas columnas se veran los sitios de buceo. No afecta a la "
+"visulización en el telefono"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:207,
+#: cfish-dsm-inc/Base/LocationsController.php:109,
+#: cfish-dsm-inc/Base/LocationsController.php:155
+msgid "Latitude"
+msgstr "Latitud"
+
+#: cfish-dsm-inc/Pages/Format.php:107
+msgid "Layout"
+msgstr "Diseño"
+
+#: cfish-dsm-inc/Base/BaseController.php:57
+msgid "Leaflet Map plugin muss be installed and active"
+msgstr "El plugin Leaflet Map debe estar instalado y activo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:282,
+#: cfish-dsm-inc/Base/LocationsController.php:35,
+#: cfish-dsm-inc/Base/LocationsController.php:36
+msgid "Location"
+msgstr "Área"
+
+#: cfish-dsm-inc/Base/LocationsController.php:98,
+#: cfish-dsm-inc/Base/LocationsController.php:140
+msgid "Location Overview Map"
+msgstr "Mapa del área"
+
+#: cfish-dsm-inc/Base/LocationsController.php:37
+msgid "Locations"
+msgstr "Áreas"
+
+#: cfish-dsm-inc/Base/BaseController.php:25
+msgid "Locations Manager"
+msgstr "Gestor de Áreas"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:209,
+#: cfish-dsm-inc/Base/LocationsController.php:113,
+#: cfish-dsm-inc/Base/LocationsController.php:161
+msgid "Longitude"
+msgstr "Longitud"
+
+#: cfish-dsm-inc/Pages/Map.php:162
+msgid "Map Background"
+msgstr "Fondo del mapa"
+
+#: cfish-dsm-inc/Pages/Map.php:60, cfish-dsm-inc/Pages/Map.php:61,
+#: cfish-dsm-inc/Pages/Map.php:89, templates/map.php:2
+msgid "Map Configuration"
+msgstr "Configuración del mapa"
+
+#: cfish-dsm-inc/Pages/Map.php:103
+msgid "Map Height (px)"
+msgstr "Altura del mapa (px)"
+
+#: cfish-dsm-inc/Pages/Map.php:118
+msgid "Map Width (%)"
+msgstr "Anchura del mapa  (%)"
+
+#: cfish-dsm-inc/Base/BaseController.php:28
+msgid "Maps Manager"
+msgstr "Configuración del Mapa"
+
+#: cfish-dsm-inc/Pages/Format.php:136
+msgid "Max Width for the images (%)"
+msgstr "Anchura maxima para las imagenes (%)"
+
+#: cfish-dsm-inc/Base/LocationsController.php:99,
+#: cfish-dsm-inc/Base/LocationsController.php:141
+msgid "Move the map and zoom to get the map for this location:"
+msgstr "Mueve el mapa y ajusta el zoom a tu área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:205
+msgid "Move the marker to get the latitude and longitude"
+msgstr "Mueve el marcador para obtener la latitud y longitud"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:114
+msgid "Name of the characteristic. E.g \"Maximum Depth\""
+msgstr "Nombre de la característica. Por ejemplo: \"Profundidad Máxima\""
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:98
+msgid "New Dive Site"
+msgstr "Nuevo sitio de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:45
+msgid "New Location"
+msgstr "Nueva área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:104
+msgid "Not found"
+msgstr "No encontrado"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:105
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: cfish-dsm-inc/Pages/Format.php:121
+msgid "Number of columns (Desktop)"
+msgstr "Número de columnas (Ordenador)"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:74,
+#: cfish-dsm-inc/Pages/Dashboard.php:73, cfish-dsm-inc/Pages/Format.php:75
+msgid "Options Manager"
+msgstr "Gestión de opciones"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:94
+msgid "Parent Dive Site:"
+msgstr "Sitio de buceo padre"
+
+#: cfish-dsm-inc/Base/LocationsController.php:40
+msgid "Parent Location"
+msgstr "Área padre"
+
+#: cfish-dsm-inc/Base/LocationsController.php:41
+msgid "Parent Location:"
+msgstr "Área Padre:"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:108
+msgid "Remove featured image"
+msgstr "Eliminar imagen"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:95
+msgid "Save the changes to start editing your characteristics\""
+msgstr "Guarda los cambios para empezar a editar las características"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:103
+msgid "Search Dive Site"
+msgstr "Buscar sitio de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:38
+msgid "Search Location"
+msgstr "Buscar Área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:107
+msgid "Set featured image"
+msgstr "Seleccionar imagen"
+
+#: cfish-dsm-inc/Base/SettingsLinks.php:19
+msgid "Settings"
+msgstr "Opciones"
+
+#: templates/admin.php:29
+msgid "Show the map with all your locations"
+msgstr "Muestra el mapa con todas las áreas"
+
+#: cfish-dsm-inc/Base/BaseController.php:29
+msgid ""
+"Show your locations in a map. It requires <a href=\"https://wordpress."
+"org/plugins/leaflet-map/\" target=\"_blank\">Leaflet Map Plugin by bozdoz</a>"
+msgstr ""
+"Muestra tus puntos de inmersión en un mapa. Necesita el plugin Leaflet Map "
+"(bozdoz) para funcionar"
+
+#: cfish-dsm-inc/Pages/Format.php:177
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: cfish-dsm-inc/Pages/Format.php:197
+msgid "Text that will be shown as title for the description section"
+msgstr "Texto que se mostrara como título de la seccióon de la descripción"
+
+#: cfish-dsm-inc/Pages/Characteristics.php:128
+msgid "This icon will be displayed next to the characteristic name\""
+msgstr "Esta icono será mostrado al lado del nombre de la característica"
+
+#: cfish-dsm-inc/Pages/Format.php:151
+msgid "Titles Color"
+msgstr "Color de los títulos"
+
+#: templates/admin.php:25
+msgid "To display the dive sites list use the following shortcode"
+msgstr ""
+"Para visualizar la lista de sitios de buceo utiliza el siguiente shortcode"
+
+#: cfish-dsm-inc/Pages/Format.php:89
+msgid "Total Width (%)"
+msgstr "Anchura total (%)"
+
+#: cfish-dsm-inc/Pages/Format.php:96
+msgid "Total width of the block for all dive sites"
+msgstr "Anchura total del bloque del conjunto de sitios de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:100
+msgid "Update Dive Site"
+msgstr "Actualizar sitio de buceo"
+
+#: cfish-dsm-inc/Base/LocationsController.php:43
+msgid "Update Location"
+msgstr "Actializar área"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:111
+msgid "Uploaded to this item"
+msgstr "Subir a este elemento"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:109
+msgid "Use as featured image"
+msgstr "Usar como imagen"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:101
+msgid "View Dive Site"
+msgstr "Ver Sitio de buceo"
+
+#: cfish-dsm-inc/Base/DiveSitesController.php:102
+msgid "View Dive Sites"
+msgstr "Ver sitios de buceo"
+
+#: cfish-dsm-inc/Pages/Map.php:125
+msgid "Width of the map in %"
+msgstr "Anchura del mapa en %"
+
+#: templates/admin.php:27
+msgid "You can filter the dive sites by location adding it to the shortcode"
+msgstr ""
+"Puedes filtar los sitios de buceo por áreas añadiendo \"location\" a tu "
+"shortcode"
+
+#: cfish-dsm-inc/Base/LocationsController.php:105,
+#: cfish-dsm-inc/Base/LocationsController.php:149
+msgid "Zoom"
+msgstr "Zoom"
